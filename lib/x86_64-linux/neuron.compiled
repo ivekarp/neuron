@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1574718682"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/user/lazarus-projects/neuron/lib/x86_64-linux -Fu/home/user/lazarus-projects/neuron/ -FU/home/user/lazarus-projects/neuron/lib/x86_64-linux/ -FE/home/user/lazarus-projects/neuron/ -o/home/user/lazarus-projects/neuron/neuron neuron.lpr"/>
+</CONFIG>
